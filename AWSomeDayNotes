@@ -1,3 +1,22 @@
 Major Key foundational service areas --> Compute , storage, Databases, Networking and Security
 services enable innovation --> 
 
+cloud deployment model :
+  *on premises
+  *hybrid
+  *cloud
+
+Key properties
+
+Agility --> On-demand self servicing
+Elasticity --> Scale rapidly to meet demands
+Cost savings --> pay as you go
+Deploy globally --> Broad network access.
+
+Edge Infrastructure :
+
+* Amazon cloudfront (Content Delivery Network)
+* AWS Outposts
+* AWS Local zones
+* AWS Wavelength
+
