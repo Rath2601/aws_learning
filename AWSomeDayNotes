@@ -20,3 +20,24 @@ Edge Infrastructure :
 * AWS Local zones
 * AWS Wavelength
 
+______________________________________________________________________________________________________________________________________
+
+COMPUTE
+
+TYPES OF COMPUTE OPTIONS
+
+1.VM (Elastic Compute Cloud-EC2)
+2.Containers
+3.Servers 
+
+EC2:
+
+*compatible with Linux, Windows, MacOS
+*compute capacity expressed in vCPUs (virtual CPUs), memory , network capacity and connected storage.
+*disposable resources (setup and remove easily)
+*Vertical scaling --> larger or smaller Instance
+ Horizontal scaling --> number of instances
+
+AWS Lambda:
+
+*Best for short running stateless code.
