@@ -41,3 +41,15 @@ EC2:
 AWS Lambda:
 
 *Best for short running stateless code.
+
+________________________________________________________________________________________________________________________________________
+
+NETWORKING AND SECURITY
+
+VPC (VIRTUAL PRIVATE CLOUD)
+
+A boundary isolates our resources in the AWS from other resources --> VPC
+
+VPC --> public/private subnets in each AZ
+
+Seperate VPC for each environments
